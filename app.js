@@ -1,2 +1,1 @@
-var = mensaje
-mensaje= "Buenas como estas";
+console.log("Hola me falto esto")
